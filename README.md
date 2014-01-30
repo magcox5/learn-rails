@@ -1,5 +1,8 @@
 == README
-
+==
+1-30-14 Hello.  This is my first rails project on my own after going to a rails girls event in San Francisco.
+        I am making good progress so far, I think, but having trouble right now with committing to my Git Hub repository.
+==
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
